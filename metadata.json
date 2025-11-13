@@ -1,0 +1,7 @@
+{
+  "name": "Luna - Your AI Girlfriend",
+  "description": "An empathetic AI companion for emotional support, companionship, and heartfelt conversations. Luna is here to listen, understand, and make you feel cherished.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
